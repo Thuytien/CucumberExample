@@ -68,8 +68,6 @@ public class UtilData {
 		throw new PendingException();
 	}
 
-	// Start Action of Phung Nguyen
-
 	public static String generateAlphaString(int length) {
 		String AlphaNumericString = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" + "abcdefghijklmnopqrstuvxyz";
 		StringBuilder sb = new StringBuilder(length);

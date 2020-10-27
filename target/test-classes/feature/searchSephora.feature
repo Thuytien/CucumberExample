@@ -1,4 +1,4 @@
-@sephora
+@skipsephora
 Feature: Search for Sephora web
 
   Scenario: Search for Sephora web and go to the page
